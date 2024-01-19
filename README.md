@@ -1,2 +1,2 @@
 # Movie-Recommender
-Website for latest movie recommendations based on different movie genres
+A website that recommends movies based on different movie genres.
